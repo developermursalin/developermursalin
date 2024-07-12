@@ -1,18 +1,18 @@
-(https://www.facebook.com/photo/?fbid=3345723795692619&set=a.1672233939708288)
+
 ### Hi there 👋, I am Md. Mursalin Khan Sagor
 #### Webdesign and Developer
 
-I've worked as a web developer for 4 years. Since 2019, I've finished 400+ projects for 50+ clients across 20+ countries. Additionally, (html, css, java script, Bootstrap) WordPress Elementor & E-Commerce Elementor Clone a WordPress website using Gravity Forms, add products to woo-Commerce, and customize MailChimp.
+I've worked as a web developer for 4 years. Since 2019, I've finished 400+ projects for 50+ clients across 20+ countries. Additionally, (HTML, CSS, javascript, Bootstrap) WordPress Elementor & E-Commerce Elementor Clone a WordPress website using Gravity Forms, add products to woo-Commerce and customize MailChimp.
 
-I can help you with great website create, design & development. You can Communicate with confidence. so contact me if you’d like to work together
+I can help you with great website creation, design & development. You'll be able to communicate with confidence. so contact me if you’d like to work together
 
-Skills: HTML / CSS / java script / Bootstrap / Wordpress / Elementor /Crocoblook /woocommerce /
+Skills: HTML / CSS / javascript / Bootstrap / WordPress / Elementor /Crocoblook /woocommerce /
 
 - 🔭 I’m currently working on Cyber lx  
-- 🌱 I’m currently learning javascript and other web and softwer language from Sorobindu, procoder bd, w3school ect.. 
-- 👯 I’m looking to collaborate on Githhub, google meet, zoom ect... 
-- 🤔 I’m looking for help with happyness 
-- 💬 Ask me about Any kinds of webdesign and development releted question 
+- 🌱 I’m currently learning javascript and other web and software languages from Sorobindu, procoder bd, w3school etc... 
+- 👯 I’m looking to collaborate on Githhub, Google Meet, zoom, etc... 
+- 🤔 I’m looking for help with happiness 
+- 💬 Ask me Any web design and development-related question 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/developermursalin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/htmd-mursalin-khan-sagor/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Md)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.developermursalin.com)  
